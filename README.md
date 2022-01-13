@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raman95431
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on developing computer vision based applications
 - 📫 How to reach me ramanyousef99@gmail.com
 
